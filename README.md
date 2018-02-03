@@ -1,12 +1,7 @@
-# yarnangularsetup
+# Arc GIS version 4.6 Map
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.16.0.
+### Angular JS SPA
 
-## Build & development
+## ScreenShot
 
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+![ScreenShot](https://ibb.co/f4xkOm)
