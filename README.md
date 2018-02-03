@@ -4,4 +4,4 @@
 
 ## ScreenShot
 
-![ScreenShot](https://ibb.co/f4xkOm)
+![ScreenShot](https://thumb.ibb.co/f4xkOm/Screen_Shot_2018_02_03_at_3_14_34_PM.png)
